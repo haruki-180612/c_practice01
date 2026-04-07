@@ -1,4 +1,4 @@
-# c_practice
+# kadai4_09B25458.c
 #include<stdio.h>
 
 struct Student{
