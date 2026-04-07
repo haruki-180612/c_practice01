@@ -1,4 +1,3 @@
-/*09B25458　沖本陽樹*/
 #include<stdio.h>
 
 void to_uppercase(char *s, char c);
