@@ -1,4 +1,3 @@
-/* 09b25458 沖本陽樹*/
 #include<stdio.h>
 
 int main(void){
