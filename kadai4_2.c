@@ -1,4 +1,3 @@
-/*09B25458　沖本陽樹*/
 #include<stdio.h>
 
 struct Student{
